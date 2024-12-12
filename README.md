@@ -1,0 +1,2 @@
+# Particle-Tracking-Simulation-in-3D-with-Visualization
+This repository contains a Python-based simulation of particle tracking through a series of detector planes. The simulation models particles emitted from a single source, which propagate along straight trajectories. The system is designed to mimic a simplified particle collision experiment with detectors placed at fixed intervals along the z-axis.
