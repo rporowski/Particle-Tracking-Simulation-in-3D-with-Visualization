@@ -2,7 +2,6 @@
 This repository contains a Python-based simulation of particle tracking through a series of detector planes. The simulation models particles emitted from a single source, which propagate along straight trajectories. The system is designed to mimic a simplified particle collision experiment with detectors placed at fixed intervals along the z-axis.
 Features
 Particle Generation:
-
 Particles are emitted uniformly in spherical angles (theta and phi) from the origin (0, 0, 0).
 Trajectories are simulated in 3D space as straight lines.
 Detector Plane Setup:
